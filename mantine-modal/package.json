@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0",
+    "@mantine/core": "6.0.21",
+    "@mantine/hooks": "6.0.21",
+    "@emotion/react": "11.11.3",
+    "@emotion/memoize": "0.8.1",
+    "react-jss": "10.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start"
+  },
+  "main": "./src/index.js",
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
