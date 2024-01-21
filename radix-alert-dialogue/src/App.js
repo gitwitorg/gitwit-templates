@@ -6,7 +6,7 @@ import '@radix-ui/themes/styles.css';
 export default function App() {
   return (
     <Theme>
-      <div className="flex justify-center items-center h-screen">
+      <div className="m-5">
         <AlertDialog.Root>
           <AlertDialog.Trigger>
             <Button color="red">Delete users</Button>
