@@ -4,9 +4,9 @@ import Papa from 'papaparse'
 
 const SPREADSHEET_ID = '<SPREADSHEET_ID>'
 /*
---- Spreadsheet schema ---
+--- SPREADSHEET SCHEMA DO NOT CHANGE ---
 <SPREADSHEET_SCHEMA>
---- Spreadsheet schema ---
+--- SPREADSHEET SCHEMA DO NOT CHANGE ---
 */
 
 const Loading = () => (
